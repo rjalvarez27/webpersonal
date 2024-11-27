@@ -9,15 +9,15 @@ const Footer = () => {
                     <div>
                         <h2 className="text-green-500 font-semibold">Inicio</h2>
                         <ul className="mt-2 text-white">
-                            <li><a href="/about">Acerca de mi</a> </li>
-                            <li><a href="/contact">Proyectos</a> </li>
+                            <li className="hover:text-green-500"><a href="#about">Acerca de mi</a> </li>
+                            <li className="hover:text-green-500"><a href="#projects">Proyectos</a> </li>
                         </ul>
                     </div>
                     <div>
                         <h2 className="text-green-500 font-semibold">Contáctame</h2>
                         <ul className="mt-2 text-white">
-                            <li><a href="/contact">Correo</a></li>
-                            <li><a href="http://linkedin.com/in/raul-alvarez-497543144" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                            <li className="hover:text-green-500"><a href="https://github.com/rjalvarez27">Contacto</a></li>
+                            <li className="hover:text-green-500"><a href="http://linkedin.com/in/raul-alvarez-497543144" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
                         </ul>
                     </div>
                     <div>
