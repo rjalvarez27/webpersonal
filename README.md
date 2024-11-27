@@ -1,8 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ Pagina Web Personal 
 
-Currently, two official plugins are available:
+Paginal web portafolio plasmando habilidades y technologias usadas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💻 Tecnologías: Stack Mern
+
+React (front).
+
+firebase (Almacenamiento de datos).
+
+⚙ Funcionalidades:
+1. Presentacion
+2. Educacion
+3. Sotware
+4. herramientas de Trabajo
+5. Habilidades
+6. Proyectos
+
+🖼 Interfaz:
+
+![Screenshot 2024-11-27 164029](https://github.com/user-attachments/assets/622b96fb-65d6-49fe-ab55-79f2154e69b8)
+
+
