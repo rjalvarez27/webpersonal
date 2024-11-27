@@ -8,8 +8,8 @@ const Nav = () => {
                 <div className="flex m-6 w-full justify-center ">
                     <nav className="space-x-8">
                     <button className="text-white hover:text-green-500"><a href="/" >Inicio</a></button>
-                        <button className="text-white hover:text-green-500"><a href="webpersonal/about" >Acerca de mi</a></button>
-                        <button className="text-white hover:text-green-500"><a href="webpersonal/contact" >Acerca de mi</a></button>
+                        <button className="text-white hover:text-green-500"><a href="/about" >Acerca de mi</a></button>
+                        <button className="text-white hover:text-green-500"><a href="/contact" >Acerca de mi</a></button>
                     </nav>
                 </div>
             </header>
