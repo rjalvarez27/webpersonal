@@ -38,7 +38,7 @@ function App() {
               <p className="text-white text-justify">
                 Desarrollador de software en constante aprendizaje, bueno para resolver problemas, soy persistente y estoy buscando siempre aprender nuevas tecnologías y hacer nuevos proyectos. Actualmente me encuentro en la búsqueda de nuevas oportunidades donde pueda aprender y desarrollar mis habilidades.
               </p>
-              <button className="mt-4 bg-transparent border border-white text-white px-4 py-2 rounded"><a href="/about" className="bg-transparent">Mas acerca de mi</a> </button>
+              <button className="mt-4 bg-transparent border border-white text-white px-4 py-2 rounded"><a href="webpersonal/about" className="bg-transparent">Mas acerca de mi</a> </button>
             </div>
           </div>
         </div >
@@ -61,7 +61,7 @@ function App() {
               <p className="bg-transparent text-white text-center">Capacidad de trabajar en equipo, y comunicarse de manera efectiva con otros programadores. Resolución de problemas y adaptabilidad a situaciones.</p>
             </div>
           </div>
-          <button className="mt-8 bg-green-500 text-white py-2 px-4 rounded-full hover:bg-green-600"><a href="/about#habilities" className="bg-transparent">Ver más de mis skills →</a>
+          <button className="mt-8 bg-green-500 text-white py-2 px-4 rounded-full hover:bg-green-600"><a href="webpersonal/about#skills" className="bg-transparent">Ver más de mis skills →</a>
           </button>
         </div>
         <div className="text-center w-full">
@@ -81,7 +81,7 @@ function App() {
           <div className="bg-red-500 p-10 rounded-lg py-8 mb-10">
             <h1 className="bg-transparent text-xl font-bold text-green-500 m-3">Red social (Desarrollo)</h1>
             <img src="https://firebasestorage.googleapis.com/v0/b/prueba-1-1262b.appspot.com/o/red.jpg?alt=media&token=5f93b5ce-f0e7-443e-9dab-112cb04643ee" alt="project 1" className="mx-auto mb-4 w-80" />
-            <button className="bg-black text-white px-4 py-2 rounded hover:bg-green-600" ><a href="https://github.com/rjalvarez27/Red_Social_Frontend" ><i className="fa-brands fa-github"></i></a></button>
+            <button className="bg-black text-white px-4 py-2 rounded hover:bg-green-600" ><a href="https://github.com/rjalvarez27/Red_Social_Frontend" ><i className="fa-brands fa-github"> GitHub </i></a></button>
           </div>
           <button className="bg-green-500 text-white py-2 px-4 rounded-full m-5"><a href="https://github.com/rjalvarez27?tab=repositories" className="bg-transparent">Ver más en GitHub <i className="fas fa-arrow-right bg-transparent"></i></a>
 

@@ -10,7 +10,7 @@ const Footer = () => {
                         <h2 className="text-green-500 font-semibold">Inicio</h2>
                         <ul className="mt-2 text-white">
                             <li><a href="/about">Acerca de mi</a> </li>
-                            <li><a href="#projects">Proyectos</a> </li>
+                            <li><a href="/contact">Proyectos</a> </li>
                         </ul>
                     </div>
                     <div>

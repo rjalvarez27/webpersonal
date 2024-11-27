@@ -9,8 +9,7 @@ const Nav = () => {
                     <nav className="space-x-8">
                     <button className="text-white hover:text-green-500"><a href="/" >Inicio</a></button>
                         <button className="text-white hover:text-green-500"><a href="webpersonal/about" >Acerca de mi</a></button>
-                        <button className="text-white hover:text-green-500"><a href="webpersonal/contact" >Contacto</a>
-                        </button>
+                        <button className="text-white hover:text-green-500"><a href="webpersonal/contact" >Acerca de mi</a></button>
                     </nav>
                 </div>
             </header>
