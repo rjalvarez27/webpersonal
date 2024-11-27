@@ -240,7 +240,7 @@ function App() {
               className="mx-auto mb-4 w-72 border-2 border-black rounded-md"
             />
             <button className="bg-black text-white px-4 py-3 rounded-full hover:bg-green-600">
-              <a href="https://github.com/rjalvarez27/Inventario_Bot_Telegram" className="bg-transparent">
+              <a href="https://github.com/rjalvarez27/Red_Social_Api" className="bg-transparent">
                 <i className="fa-brands fa-github bg-transparent"></i>
               </a>
             </button>
@@ -255,7 +255,7 @@ function App() {
               className="mx-auto mb-4 w-80 border-2 border-black rounded-md"
             />
             <button className="bg-black text-white px-4 py-3 rounded-full hover:bg-green-600">
-              <a href="https://github.com/rjalvarez27/Inventario_Bot_Telegram" className="bg-transparent">
+              <a href="https://github.com/rjalvarez27/Red_Social_Frontend" className="bg-transparent">
                 <i className="fa-brands fa-github bg-transparent"></i>
               </a>
             </button>
